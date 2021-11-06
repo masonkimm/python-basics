@@ -1,2 +1,5 @@
-# python-practice
-Python practice
+# Python Basics - Crash Course
+
+## Table of Contents
+
+1. Variables
