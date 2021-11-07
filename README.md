@@ -4,3 +4,4 @@
 
 1. Variables
 2. Strings
+3. Lists
