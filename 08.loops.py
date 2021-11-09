@@ -31,9 +31,9 @@ people = ['Spider Man', 'Iron Man', 'Batman', 'Superman']
 
 count = 0
 # 0-10
-while count <= 10:
-    print(f'Count: {count}')
-    count += 1
+# while count <= 10:
+#     print(f'Count: {count}')
+#     count += 1
 # 0-9
 while count < 10:
     print(f'Count: {count}')

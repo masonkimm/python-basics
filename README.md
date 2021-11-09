@@ -10,3 +10,4 @@
 6. Functions
 7. Conditionals
 8. Loops
+9. Modules
