@@ -9,3 +9,4 @@
 5. Dictionaries
 6. Functions
 7. Conditionals
+8. Loops
