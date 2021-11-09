@@ -8,3 +8,4 @@
 4. Tuples & Sets
 5. Dictionaries
 6. Functions
+7. Conditionals
