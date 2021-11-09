@@ -7,3 +7,4 @@
 3. Lists
 4. Tuples & Sets
 5. Dictionaries
+6. Functions
