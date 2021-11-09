@@ -8,17 +8,27 @@ from time import time
 # Pip module
 from camelcase import CamelCase
 
+# Import custom module
+from validator import validate_email
+
+
 # Date way 1
 today = datetime.date.today()
-print(today)
+# print(today)
 
 # Date way 2
 today2 = date.today()
-print(today2)
+# print(today2)
 
 # Time
 timestamp = time()
-print(timestamp)
+# print(timestamp)
 
 c = CamelCase()
 print(c.hump('hello there world'))
+
+email = 'test@test.com'
+if validate_email(email):
+    print('Email is valid')
+else:
+    print('Email is bad')
