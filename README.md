@@ -13,5 +13,6 @@
 9. Modules
 10. Classes
 11. Files
+12. JSON
 
 Misc file = Validator
