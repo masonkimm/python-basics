@@ -12,5 +12,6 @@
 8. Loops
 9. Modules
 10. Classes
+11. Files
 
 Misc file = Validator
